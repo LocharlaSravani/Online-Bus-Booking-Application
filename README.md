@@ -1,11 +1,10 @@
 
-Project Title:
-Online Bus Booking Application
+#Online Bus Booking Application
 
-Description:
+#Description:
 An Online Bus Booking Application that allows users to search and book bus tickets for various destinations. The application supports features such as user authentication, bus seat selection, payment processing, and ticket generation. The backend is built using PHP and MySQL, providing a user-friendly interface for booking tickets for AC buses, managing seat availability, and generating printable tickets.
 
-Key Features:
+#Key Features:
 User Authentication:
 
 New User Registration: Users can sign up with a validated form.
@@ -29,12 +28,12 @@ Databases:
 Two separate databases:
 User Database: Stores user login details.
 Bus Database: Stores bus details, including available seats and routes.
-Technologies Used:
+# Technologies Used:
 PHP: Backend development for user authentication, booking logic, and ticket generation.
 MySQL: Database management for storing user and bus data.
 JavaScript: Client-side validation for forms and dynamic seat selection.
 HTML & CSS: Responsive frontend design for easy navigation and booking.
-Installation:
+# Installation:
 Upload Files:
 Upload the online_bus directory to your chosen server or local directory.
 Set Up Database:
